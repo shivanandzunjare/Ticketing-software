@@ -1,0 +1,31 @@
+ #logo {
+     margin-top: 43px;
+     border-top-width: 1000px;
+ }
+
+ #xx {
+
+     padding-left: 0px;
+
+     font-size: 20px;
+     color: rgb(11, 11, 11);
+     text-decoration: none;
+     margin-left: 50px;
+     margin-top: 50px;
+     text-emphasis-color: #0000;
+ }
+
+ #xyy {
+     margin-left: 750px;
+     margin-top: 50px;
+     padding-left: 15px;
+     font-size: 20px;
+     color: rgb(11, 11, 11);
+ }
+
+ #xy {
+     margin-top: 50px;
+     margin-left: 750px;
+     font-size: 20px;
+
+ }
